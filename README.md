@@ -1,2 +1,3 @@
 # demo
-this is just a demo or a repo just for training
+This is just a demo or a repo for training
+Trainee --Ahmad Raza
